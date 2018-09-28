@@ -13,6 +13,8 @@ describe('SmartCalculator', () => {
     assert.equal(value, 11);
   });
 
+
+
   it('2', () => {
     const calculator = new SmartCalculator(2);
 
